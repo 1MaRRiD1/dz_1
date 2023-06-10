@@ -16,7 +16,7 @@ else {
 }*/
 
 //Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-Console.Write("Введите первое число: ");
+/*Console.Write("Введите первое число: ");
   int number1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
   int number2 = Convert.ToInt32(Console.ReadLine());
@@ -35,7 +35,7 @@ while(count<2){
         count++ ;
     }
 }
-Console.Write($"{max} - наибольшее из трех чисел ");
+Console.Write($"{max} - наибольшее из трех чисел ");*/
 
 
 
